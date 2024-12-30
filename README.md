@@ -8,7 +8,7 @@ Dynamic News Data: Real-time news updates are fetched from a reliable API, ensur
 have access to the latest information.
 
 News Categories: Users can explore news organized by categories such as Sports, Technology,
-Politics, and more.
+Health, and more.
 
 Multi-Language Support: The app supports both English and Arabic, allowing users to switch languages
 seamlessly, powered by the Easy Localization package.
