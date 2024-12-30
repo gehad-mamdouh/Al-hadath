@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'home_screen.dart';
+import 'home/home_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   static const String routeName = 'splash_screen';
@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
           Expanded(
               child: Center(
                 child: Image.asset(
-                  'assets/images/splash_background.png',
+                  'assets/images/splash_screen.jpg',
                 ),
               ))
         ],
